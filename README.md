@@ -1,2 +1,2 @@
 # My-First-Repo
-This is a repo
+This is an example of branching!
